@@ -5,7 +5,7 @@
 # Examples
 #
 #   is_even(5)
-#   # => True
+#   # => true
 #
 # Returns the answer
 def is_odd(number)

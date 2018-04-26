@@ -5,7 +5,7 @@
 # Examples
 #
 #   is_negative(-4)
-#   # => True
+#   # => true
 #
 # Returns the answer
 def is_negative(number)

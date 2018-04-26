@@ -5,7 +5,7 @@
 # Examples
 #
 #   is_even(4)
-#   # => True
+#   # => true
 #
 # Returns the answer
 def is_even(number)

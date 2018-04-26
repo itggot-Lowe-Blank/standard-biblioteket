@@ -7,7 +7,7 @@
 # Examples
 #
 #   between_strict(4, 2, 4)
-#   # => True
+#   # => true
 #
 # Returns true or false.
 def between(num1,num2,num3)
